@@ -9,7 +9,7 @@
 
 Proof of concept for dancing agents in an agent-based model.
 
-🎵 Music: [Dead or Alive](https://en.wikipedia.org/wiki/Dead_or_Alive_(band)) - [You Spin Me Round (Like a Record)](https://www.youtube.com/watch?v=PGNiXGX2nLU)
+🎵 Music: [Dead or Alive](https://en.wikipedia.org/wiki/Dead_or_Alive_(band)) - [You Spin Me Round (Like a Record)](https://www.youtube.com/watch?v=PGNiXGX2nLU).
 
 Made with [Claude](https://claude.ai/).
 
